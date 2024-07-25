@@ -8,6 +8,9 @@ Rooms: This one has a list of all the rooms and the client can click on any one 
 if the user is not logged in, on the navbar there are 2 buttons to either register or login.  
 if the user is logged in they can check their reservation history or logout.
 The footer contains some basic info of the company along with the contact information.  
+
+IMPORTANT NOTE: the api that lets the user choose a country and then shows the cities of that country lags when the country has a lot of cities.  
+TRY USING CYPRUS TO SEE HOW IT WORKS
   
   
 In order to see the admin page you first have to login with an admin user (eg. username: admin password: admin).  
